@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dev-razz/dev-razz.github.io/static/css/main.79b57753.css",
+    "main.js": "/dev-razz/dev-razz.github.io/static/js/main.d7cfaab3.js",
+    "static/media/pose_detector1.png": "/dev-razz/dev-razz.github.io/static/media/pose_detector1.074e70921e9fc451cdcd.png",
+    "static/media/audiosonic2.png": "/dev-razz/dev-razz.github.io/static/media/audiosonic2.b5851084c37631476b74.png",
+    "static/media/algorithmic3.png": "/dev-razz/dev-razz.github.io/static/media/algorithmic3.2473c430acbf9ecd89d3.png",
+    "static/media/Resume1.pdf": "/dev-razz/dev-razz.github.io/static/media/Resume1.c13d7cd73c22c3c686b7.pdf",
+    "static/media/profile.jpg": "/dev-razz/dev-razz.github.io/static/media/profile.5faf1ec2c1167b105d90.jpg",
+    "static/media/logo.svg": "/dev-razz/dev-razz.github.io/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/project5.jpg": "/dev-razz/dev-razz.github.io/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/dev-razz/dev-razz.github.io/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/project6.jpg": "/dev-razz/dev-razz.github.io/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/dev-razz/dev-razz.github.io/index.html",
+    "main.79b57753.css.map": "/dev-razz/dev-razz.github.io/static/css/main.79b57753.css.map",
+    "main.d7cfaab3.js.map": "/dev-razz/dev-razz.github.io/static/js/main.d7cfaab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b57753.css",
+    "static/js/main.d7cfaab3.js"
+  ]
+}
