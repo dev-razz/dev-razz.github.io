@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.79b57753.css",
-    "main.js": "/static/js/main.d6461119.js",
-    "static/media/pose_detector1.png": "/static/media/pose_detector1.074e70921e9fc451cdcd.png",
-    "static/media/audiosonic2.png": "/static/media/audiosonic2.b5851084c37631476b74.png",
-    "static/media/algorithmic3.png": "/static/media/algorithmic3.2473c430acbf9ecd89d3.png",
+    "main.js": "/static/js/main.c4c0c393.js",
+    "static/media/pose_detector1.png": "/static/media/pose_detector1.d9caa8aaf88f51e38a76.png",
+    "static/media/algorithmic3.png": "/static/media/algorithmic3.74d6f22b30a0304f567f.png",
     "static/media/Resume1.pdf": "/static/media/Resume1.c13d7cd73c22c3c686b7.pdf",
     "static/media/profile.jpg": "/static/media/profile.5faf1ec2c1167b105d90.jpg",
+    "static/media/audiosonic2.png": "/static/media/audiosonic2.8fa640f65cf9b87640bd.png",
     "static/media/logo.svg": "/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
     "static/media/project5.jpg": "/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
     "static/media/logo2.svg": "/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
     "static/media/project6.jpg": "/static/media/project6.a22c939898d6c4613b65.jpg",
     "index.html": "/index.html",
     "main.79b57753.css.map": "/static/css/main.79b57753.css.map",
-    "main.d6461119.js.map": "/static/js/main.d6461119.js.map"
+    "main.c4c0c393.js.map": "/static/js/main.c4c0c393.js.map"
   },
   "entrypoints": [
     "static/css/main.79b57753.css",
-    "static/js/main.d6461119.js"
+    "static/js/main.c4c0c393.js"
   ]
 }
