@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/dev-razz/dev-razz.github.io",
+  "homepage": "https://dev-razz.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
