@@ -1,6 +1,6 @@
 # React Portfolio Project
 
-This is a personal portfolio website built using React. It showcases my projects, skills, and experience.
+This is a personal portfolio website built using React adn Vite. It showcases my projects, skills, and experience.
 
 ## Features
 
