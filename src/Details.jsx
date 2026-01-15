@@ -182,5 +182,5 @@ project lorem ipsum generator for dummy content`,
 // Enter your Contact Details here
 export const contactDetails = {
   email: "rajatagrawal072000@gmail.com",
-  phone: "+91 9460554805",
+  phone: "+91",
 };
